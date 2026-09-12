@@ -15,6 +15,12 @@ En zonas con acceso limitado a establecimientos de salud, como algunas comunidad
 
 BYMAX propone un monitoreo domiciliario orientado a reconocer **cambios individuales y sostenidos en el tiempo**, facilitando la identificación temprana de un posible deterioro y el seguimiento remoto por parte del personal de salud.
 
+<p align="center">
+  <img src="Fotos/bymax.png"
+       alt="Prototipo de HemoKit"
+       width="500">
+</p>
+
 ## Propuesta de valor
 
 - Compara cada medición con el **basal individual del paciente**.
@@ -24,12 +30,6 @@ BYMAX propone un monitoreo domiciliario orientado a reconocer **cambios individu
 - Confirma la persistencia de las alteraciones antes de generar una alerta.
 - Procesa la información localmente mediante un ESP32, sin depender de conexión continua a internet.
 - Permite visualizar el historial y las alertas desde una aplicación móvil.
-
-<p align="center">
-  <img src="Fotos/bymax.png"
-       alt="Prototipo de HemoKit"
-       width="500">
-</p>
 
 ## Funcionamiento general
 
