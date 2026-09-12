@@ -25,6 +25,12 @@ BYMAX propone un monitoreo domiciliario orientado a reconocer **cambios individu
 - Procesa la información localmente mediante un ESP32, sin depender de conexión continua a internet.
 - Permite visualizar el historial y las alertas desde una aplicación móvil.
 
+<p align="center">
+  <img src="Fotos/bymax.png"
+       alt="Prototipo de HemoKit"
+       width="500">
+</p>
+
 ## Funcionamiento general
 
 ```mermaid
