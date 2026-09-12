@@ -121,17 +121,7 @@ El sistema realiza mediciones seriadas —planteadas inicialmente tres veces al 
 
 BYMAX es un **prototipo académico de investigación**. No es un dispositivo médico certificado, no establece diagnósticos y no reemplaza la evaluación de un profesional de salud ni los servicios de emergencia. Antes de una aplicación clínica se requieren pruebas de desempeño, usabilidad, seguridad eléctrica, gestión de riesgos y validación clínica.
 
-## Propiedad intelectual
 
-El proyecto incorpora una propuesta de estimación de temperatura corporal corregida por condiciones ambientales y un método de detección de tendencias basado en el basal individual. Para proteger la propiedad intelectual, este README describe el sistema a nivel funcional y no publica fórmulas, ponderaciones, archivos de fabricación ni parámetros internos sensibles.
-
-## Repositorio
-
-[ByMax — Instrumentación Biomédica, Grupo 1 H1](https://github.com/PascaleMerino/ByMax-Instrumentacion-Biomedica-Grupo-1-H1)
-
-## Licencia
-
-La documentación, el hardware y el software permanecen bajo los derechos de sus autores mientras no se publique una licencia expresa. No se autoriza su uso clínico.
 
 ---
 
